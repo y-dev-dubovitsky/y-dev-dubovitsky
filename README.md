@@ -1,8 +1,9 @@
 ## Hello everyone! 
 
-I'm a Middle full stack developer
+I'm a Middle full stack developer. I love programming, especially - JavaScript, React :heart: Redux, Vue, NodeJs, React Native, Java and related technologies.
 
-How to contact me: Just send email to [y.dev.dubovitsky@gmail.com](mailto:y.dev.dubovitsky@gmail.com)
+- [![Mail](https://img.shields.io/badge/-y.dev.dubovitsky@gmail.com-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:y.dev.dubovitsky@gmail.com)
+- [![Site](https://img.shields.io/badge/personal%20site-www.ydubovitsky.ru-blue)](http://ydubovitsky.ru)
 
 My education: Informatics and Computer Engineering.
 
